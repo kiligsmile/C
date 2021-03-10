@@ -12,6 +12,9 @@ int main()
 			}
 		}
 		if (isPrime ==1) {
+            j=0;
+            a[j]=x;
+            j++
 			printf("%d ",x);
 		}
 	}
